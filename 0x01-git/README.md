@@ -1,2 +1,2 @@
 Creating a directory
-Craeting a file in the directory
+Creating a file in the directory
